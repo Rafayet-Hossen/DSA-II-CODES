@@ -39,6 +39,6 @@ int main()
     {
         cin>>arr[i];
     }
-    cout<< frequency(arr,n,1)<<endl;
+    cout<< frequency(arr,n,1) <<endl;
     return 0;
 }
